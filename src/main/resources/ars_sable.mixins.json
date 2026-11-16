@@ -23,7 +23,7 @@
     "planarium.PlanariumTileMixin",
     "source_jar.SourceJarMixin",
     "storage.CraftingLecternBlockMixin",
-    "storage.StorageLecternTileMixin",
+    "storage.CraftingLecternTileMixin",
     "util.BlockPosUtilMixin",
     "util.ParticleUtilMixin",
     "util.ServerChunkCacheInvoker",
