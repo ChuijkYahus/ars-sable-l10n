@@ -24,7 +24,7 @@ public class ModBlockRegistry {
 
     }
 
-    public static Block.Properties defaultProperties(){
+    public static Block.Properties defaultProperties() {
         return Block.Properties.of().sound(SoundType.STONE).strength(2.0f, 6.0f);
     }
 }
